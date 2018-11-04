@@ -1,4 +1,4 @@
-Github link for source code:
+Github link for source code: https://github.com/manimalakumar/ML-Unrevealed
 
 Data source:
 The Google store data is taken from: https://www.kaggle.com/c/ga-customer-revenue-prediction/data. Must download.

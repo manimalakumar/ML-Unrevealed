@@ -1,5 +1,7 @@
 Github link for source code: https://github.com/manimalakumar/ML-Unrevealed
 
+Goal: Cluster analysis and Revenue prediction
+
 Data source:
 The Google store data is taken from: https://www.kaggle.com/c/ga-customer-revenue-prediction/data. Must download.
 The Energy data (industrial_data.csv) is under the \data folder.
